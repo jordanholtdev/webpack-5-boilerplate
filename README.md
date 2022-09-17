@@ -1,4 +1,4 @@
-# webpack 5 boilerplate
+# webpack 5 boilerplate - ARCHIVED
 
 A boilerplate for running a front-end Webpack workflow with the latest packages.
 
